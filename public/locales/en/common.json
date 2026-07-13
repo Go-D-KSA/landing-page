@@ -1,0 +1,83 @@
+{
+  "meta": { "title": "Go D — Your Ride. Your Price. Your Way.", "description": "Go D is Riyadh's premium ride-hailing app. Your ride, your price, your way." },
+  "accessibility": { "skip": "Skip to content", "home": "Go D home", "primaryNav": "Primary navigation", "scroll": "Scroll down", "language": "Switch to Arabic", "qr": "QR code placeholder" },
+  "loader": { "label": "Loading your ride..." },
+  "nav": { "how": "How it works", "features": "Why Go D", "drive": "Drive with us", "safety": "Safety" },
+  "store": { "applePrefix": "Download on the", "apple": "App Store", "googlePrefix": "Get it on", "google": "Google Play" },
+  "hero": {
+    "kicker": "Launching in Riyadh",
+    "tagline": "Your Ride. Your Price. Your Way.",
+    "copy": "A smarter way to move through Riyadh. Choose your route, set your fare, and ride with confidence.",
+    "offer": "YOUR OFFER",
+    "currency": "SAR",
+    "choose": "Choose this ride"
+  },
+  "howItWorks": {
+    "eyebrow": "How it works",
+    "title": "From where you are to where you want to be.",
+    "intro": "Three simple steps put you in control of every journey.",
+    "step1": { "title": "Set your pickup & destination", "copy": "Tell Go D where the journey starts and where you are heading." },
+    "step2": { "title": "Choose fixed price or bid", "copy": "Accept the suggested fare or propose a price that works for you." },
+    "step3": { "title": "Your verified driver arrives", "copy": "Choose with confidence, track the arrival, and enjoy your ride." }
+  },
+  "features": {
+    "eyebrow": "Why Go D",
+    "title": "Built for the way Riyadh moves.",
+    "intro": "Local-first technology, flexible fares, and safety designed into every tap.",
+    "card1": { "title": "Nafath Verified", "copy": "Driver identities verified through Saudi Arabia's national system." },
+    "card2": { "title": "Bid Your Price", "copy": "Propose your fare and compare offers from nearby drivers." },
+    "card3": { "title": "Women-Only Mode", "copy": "Female riders can choose to match with female drivers only." },
+    "card4": { "title": "Real-Time Tracking", "copy": "Watch your driver arrive and share live journey details." },
+    "card5": { "title": "All Payment Methods", "copy": "Mada, Visa, Apple Pay, STC Pay, or cash—the choice is yours." },
+    "card6": { "title": "24/7 Safety", "copy": "SOS access, masked calls, and responsive support throughout the ride." }
+  },
+  "stats": {
+    "riders": "Riyadh population served",
+    "drivers": "Potential driver network",
+    "mobility": "KSA mobility opportunity",
+    "experience": "Experience we aim for"
+  },
+  "driver": {
+    "eyebrow": "For drivers",
+    "title": "Drive with Go D. Earn more. Keep more.",
+    "copy": "Build your schedule around your life and join a platform designed to value every driver.",
+    "commission": "Competitive commission",
+    "payouts": "Weekly payouts",
+    "welfare": "Driver welfare focus",
+    "cta": "Register as a driver",
+    "week": "This week",
+    "currency": "SAR",
+    "estimate": "Estimated earnings preview"
+  },
+  "download": {
+    "eyebrow": "Coming soon",
+    "title": "Riyadh's next ride is already on its way.",
+    "copy": "Get ready for flexible fares, verified drivers, and a ride built around you.",
+    "scan": "Scan to join the launch list",
+    "where": "Where to?",
+    "destination": "Kingdom Centre → KAFD",
+    "fixed": "Fixed fare",
+    "bid": "Make a bid",
+    "accepted": "Driver accepted!",
+    "confirmed": "Ride confirmed"
+  },
+  "safety": {
+    "eyebrow": "Safety & trust",
+    "title": "Confidence should come standard.",
+    "copy": "Go D is being designed around Saudi requirements, verified identities, secure payments, and clear support paths.",
+    "tga": { "title": "TGA Ready", "copy": "Licensing pathway" },
+    "nafath": { "title": "Nafath Ready", "copy": "Identity verification" },
+    "payments": { "title": "Secure Payments", "copy": "Compliance-first" }
+  },
+  "footer": {
+    "about": "Your ride. Your price. Your way. A new mobility experience, made for Riyadh.",
+    "company": "Company",
+    "privacy": "Privacy policy",
+    "terms": "Terms of service",
+    "contact": "Contact",
+    "follow": "Follow Go D",
+    "rights": "All rights reserved.",
+    "location": "Operating in Riyadh, Saudi Arabia"
+  },
+  "legal": { "back": "Back to home", "privacyTitle": "Privacy Policy", "termsTitle": "Terms of Service", "updated": "Last updated: July 2026", "placeholder": "This page is reserved for Go D's reviewed legal policy before launch." }
+}
