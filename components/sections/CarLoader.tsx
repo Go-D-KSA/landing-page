@@ -38,7 +38,7 @@ export default function CarLoader() {
           <div className="loader">
             <div className="loader-road" aria-hidden="true">
               <i className="trail" />
-              <span className="loader-car"><RideCar /></span>
+              <span className="loader-car"><RideCar priority /></span>
             </div>
             <div className="loader-label"><span>Loading your ride...</span><span lang="ar" dir="rtl">جاري التحميل...</span></div>
             <div className="loader-progress"><motion.i animate={{ width: `${progress}%` }} /></div>
